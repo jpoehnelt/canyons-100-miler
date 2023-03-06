@@ -1,0 +1,17 @@
+{
+  "name": "canyons-100m",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^6.2.4",
+    "file-system-cache": "^2.0.2",
+    "playwright": "^1.31.1"
+  }
+}
